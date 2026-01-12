@@ -1,9 +1,0 @@
- int total = 600;
-        
-        double marks_obtained = 540;
-        
-        double percentage;
-        
-        percentage = (marks_obtained/total)*100;
-        
-        System.out.println("Student1's Percentage = "+ percentage);
