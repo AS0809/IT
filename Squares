@@ -1,0 +1,6 @@
+ int num=1;
+      while (num<=50)
+      {
+            System.out.println("Square of " + num + " = " + num*num);
+            num++;
+      }
