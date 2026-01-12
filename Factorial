@@ -1,0 +1,8 @@
+int i;
+       int fact=1;
+       int n = 7;
+       for(i=1; i<=n; i++)
+       {
+           fact=i*fact;
+       }
+       System.out.println("Factorial of " +n+ " = " +fact);
